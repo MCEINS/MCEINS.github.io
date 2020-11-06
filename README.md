@@ -1,1 +1,1 @@
-# MCEINS.github.io
+# That same afternoon's blog
