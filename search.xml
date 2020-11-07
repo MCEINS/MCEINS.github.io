@@ -50,26 +50,26 @@ a pair of white sneakers</code></pre><a id="more"></a>
 <table>
 <thead>
 <tr>
-<th>书名</th>
-<th>作者</th>
+<th align="left">书名</th>
+<th align="center">作者</th>
 <th>start</th>
 <th>end</th>
-<th>type</th>
+<th align="center">type</th>
 </tr>
 </thead>
 <tbody><tr>
-<td><strong><a href="https://www.goodreads.com/book/show/23807.The_Silence_of_the_Lambs" target="_blank" rel="noopener">The silence of the lambs</a></strong> <a href="https://book.douban.com/subject/1082159/" target="_blank" rel="noopener">沉默的羔羊</a></td>
-<td>Thomas Harris 托马斯·哈里斯</td>
+<td align="left"><strong><a href="https://www.goodreads.com/book/show/23807.The_Silence_of_the_Lambs" target="_blank" rel="noopener">The silence of the lambs</a></strong> <a href="https://book.douban.com/subject/1082159/" target="_blank" rel="noopener">沉默的羔羊</a></td>
+<td align="center">Thomas Harris 托马斯·哈里斯</td>
 <td>08-01</td>
-<td></td>
-<td>#惊悚</td>
+<td>09-15</td>
+<td align="center">#惊悚</td>
 </tr>
 <tr>
-<td><strong><a href="https://www.goodreads.com/book/show/77566.Hyperion" target="_blank" rel="noopener">Hyperion</a></strong> <a href="https://book.douban.com/subject/2052049/" target="_blank" rel="noopener">海伯利安</a></td>
-<td>Dan Simmons 丹·西蒙斯</td>
+<td align="left"><strong><a href="https://www.goodreads.com/book/show/77566.Hyperion" target="_blank" rel="noopener">Hyperion</a></strong> <a href="https://book.douban.com/subject/2052049/" target="_blank" rel="noopener">海伯利安</a></td>
+<td align="center">Dan Simmons 丹·西蒙斯</td>
 <td>10-01</td>
 <td></td>
-<td>#科幻</td>
+<td align="center">#科幻</td>
 </tr>
 </tbody></table>
 <blockquote>
@@ -77,29 +77,25 @@ a pair of white sneakers</code></pre><a id="more"></a>
 <table>
 <thead>
 <tr>
-<th>书名</th>
-<th>作者</th>
-<th>start</th>
-<th>type</th>
+<th align="left">书名</th>
+<th align="center">作者</th>
+<th align="left">type</th>
 </tr>
 </thead>
 <tbody><tr>
-<td><a href="http://www.fantasyliterature.com/reviews/the-invisible-life-of-addie-larue/" target="_blank" rel="noopener">The Invisible Life of Addie LaRue</a></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"><a href="http://www.fantasyliterature.com/reviews/the-invisible-life-of-addie-larue/" target="_blank" rel="noopener">The Invisible Life of Addie LaRue</a></td>
+<td align="center"></td>
+<td align="left">#人物</td>
 </tr>
 <tr>
-<td><strong><a href="https://book.douban.com/subject/1007305/" target="_blank" rel="noopener">红楼梦</a></strong></td>
-<td>曹雪芹</td>
-<td></td>
-<td>#古典名著</td>
+<td align="left"><strong><a href="https://book.douban.com/subject/1007305/" target="_blank" rel="noopener">红楼梦</a></strong></td>
+<td align="center">曹雪芹</td>
+<td align="left">#古典名著</td>
 </tr>
 <tr>
-<td><strong><a href="https://book.douban.com/subject/3079029/" target="_blank" rel="noopener">大秦帝国</a></strong></td>
-<td>孙皓晖</td>
-<td></td>
-<td>#历史小说</td>
+<td align="left"><strong><a href="https://book.douban.com/subject/3079029/" target="_blank" rel="noopener">大秦帝国</a></strong></td>
+<td align="center">孙皓晖</td>
+<td align="left">#历史小说</td>
 </tr>
 </tbody></table>
 ]]></content>
