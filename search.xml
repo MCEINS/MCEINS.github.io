@@ -30,7 +30,7 @@ a pair of white sneakers</code></pre><a id="more"></a>
       </tags>
   </entry>
   <entry>
-    <title>Booklist</title>
+    <title>书单</title>
     <url>/Booklist/</url>
     <content><![CDATA[<blockquote>
 <p> <a href="http://gen.lib.rus.ec/" target="_blank" rel="noopener">library genesis</a> <a href="http://www.haodoo.net" target="_blank" rel="noopener">haodu</a> <a href="https://bookfere.com/books" target="_blank" rel="noopener">书伴</a> <a href="https://salttiger.com/" target="_blank" rel="noopener">SaltTiger</a> <a href="https://volmoe.com/" target="_blank" rel="noopener">Vol.moe</a> <a href="http://www.qcenglish.com/" target="_blank" rel="noopener">七彩英语</a> <a href="http://www.binnao.com/" target="_blank" rel="noopener">缤闹kindle</a> </p>
@@ -79,23 +79,23 @@ a pair of white sneakers</code></pre><a id="more"></a>
 <tr>
 <th align="left">书名</th>
 <th align="center">作者</th>
-<th align="left">type</th>
+<th align="center">type</th>
 </tr>
 </thead>
 <tbody><tr>
 <td align="left"><a href="http://www.fantasyliterature.com/reviews/the-invisible-life-of-addie-larue/" target="_blank" rel="noopener">The Invisible Life of Addie LaRue</a></td>
 <td align="center"></td>
-<td align="left">#人物</td>
+<td align="center">#人物</td>
 </tr>
 <tr>
 <td align="left"><strong><a href="https://book.douban.com/subject/1007305/" target="_blank" rel="noopener">红楼梦</a></strong></td>
 <td align="center">曹雪芹</td>
-<td align="left">#古典名著</td>
+<td align="center">#古典名著</td>
 </tr>
 <tr>
 <td align="left"><strong><a href="https://book.douban.com/subject/3079029/" target="_blank" rel="noopener">大秦帝国</a></strong></td>
 <td align="center">孙皓晖</td>
-<td align="left">#历史小说</td>
+<td align="center">#历史小说</td>
 </tr>
 </tbody></table>
 ]]></content>

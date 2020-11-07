@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://mbing0.com/bookmark/index.html</loc>
+    
+    <lastmod>2020-11-07T17:01:48.671Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://mbing0.com/notebook/index.html</loc>
+    
+    <lastmod>2020-11-07T16:59:46.548Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://mbing0.com/Booklist/</loc>
     
-    <lastmod>2020-11-07T16:50:00.815Z</lastmod>
+    <lastmod>2020-11-07T16:54:15.784Z</lastmod>
     
   </url>
   
@@ -23,23 +37,9 @@
   </url>
   
   <url>
-    <loc>https://mbing0.com/notebook/index.html</loc>
-    
-    <lastmod>2020-11-06T04:19:25.140Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://mbing0.com/TODO/</loc>
     
     <lastmod>2020-11-04T05:49:13.325Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://mbing0.com/bookmark/index.html</loc>
-    
-    <lastmod>2020-11-02T05:47:48.905Z</lastmod>
     
   </url>
   
